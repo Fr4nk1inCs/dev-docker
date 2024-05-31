@@ -1,0 +1,7 @@
+zmodule https://sciproxy.com/https://github.com/zimfw/completion
+zmodule https://sciproxy.com/https://github.com/zsh-users/zsh-syntax-highlighting
+zmodule https://sciproxy.com/https://github.com/zsh-users/zsh-autosuggestions
+zmodule https://sciproxy.com/https://github.com/zsh-users/zsh-history-substring-search
+
+zmodule https://sciproxy.com/https://github.com/wbingli/zsh-wakatime
+zmodule https://sciproxy.com/https://github.com/Aloxaf/fzf-tab
